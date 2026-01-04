@@ -1,10 +1,11 @@
 ## Hi I'm Mohamed Japhary👋
 
 - 📊 Data Analyst with experience in **SQL, Power BI, and Excel**  
-- 🔍 Skilled in **data cleaning, visualization, and dashboard creation**  
-- 📈 Passionate about **business intelligence and data storytelling**  
+- 🔍 Skilled in **data cleaning, visualization, and dashboard creation**
+- 🔍 Passionate about turning raw data into actionable insights
+- 📈 Experienced in data visualization, reporting, and business intelligence  
 - 🌱 Currently exploring **Python**  
-- 💡 Love solving problems with data and helping businesses make informed decisions  
+-💡 Open to collaborating on data-driven projects
 
 ## 🛠️ Skills
 - **Languages:**  SQL.
