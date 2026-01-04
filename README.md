@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi I'm Mohamed Japhary👋
 
-<!--
-**29chdu/29chdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📊 Data Analyst with experience in **SQL, Power BI, and Excel**  
+- 🔍 Skilled in **data cleaning, visualization, and dashboard creation**  
+- 📈 Passionate about **business intelligence and data storytelling**  
+- 🌱 Currently exploring **Python**  
+- 💡 Love solving problems with data and helping businesses make informed decisions  
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages:**  SQL.
+- **Visualization Tools:** Power BI, Excel  
+- **Databases:** MS SQL Server, MySQL
+- **Other:** Data Warehousing. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+- 📊 **Sales Dashboard (Power BI):** Interactive dashboard for tracking KPIs  
+- 📈 **SQL Analytics:** Complex queries for business reporting  
+
