@@ -4,7 +4,7 @@
 - 🔍 Skilled in **data cleaning, visualization, and dashboard creation**
 - 🔍 Passionate about turning raw data into actionable insights
 - 📈 Experienced in data visualization, reporting, and business intelligence  
-- 🌱 Currently exploring **Data Storytelling and DAX**
+- 🌱 Currently exploring **Python**
 - 💡 Open to collaborating on data-driven projects
 
 
